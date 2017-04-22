@@ -1,0 +1,19 @@
+{
+  "name": "battlebeno",
+  "version": "1.0.0",
+  "description": "isometric game, pvp melee",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ns4lin4s/battlebeno.git"
+  },
+  "author": "Nelson Salinas G. & Bernardo Abarca S.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ns4lin4s/battlebeno/issues"
+  },
+  "homepage": "https://github.com/ns4lin4s/battlebeno#readme"
+}
